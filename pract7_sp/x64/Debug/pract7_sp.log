@@ -1,0 +1,6 @@
+﻿  pract7_sp.cpp
+C:\Users\Carbonium\Downloads\pract7_sp\pract7_sp\pract7_sp.cpp(44,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Carbonium\Downloads\pract7_sp\pract7_sp\pract7_sp.cpp(45,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Carbonium\Downloads\pract7_sp\pract7_sp\pract7_sp.cpp(46,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Carbonium\Downloads\pract7_sp\pract7_sp\pract7_sp.cpp(47,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  pract7_sp.vcxproj -> C:\Users\Carbonium\Downloads\pract7_sp\x64\Debug\pract7_sp.exe
